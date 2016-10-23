@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: auth0-spring-security-api-sample
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: georgewooding
+Implementation-Vendor-Id: com.auth0
+Build-Jdk: 1.8.0_45
+Implementation-URL: http://projects.spring.io/spring-boot/auth0-spring
+ -security-api-sample/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
